@@ -1,5 +1,6 @@
 //your code here
-unction renderText(domElt, text) {
+
+ function renderText(domElt, text) {
   domElt.innerText = text;
 }
  
@@ -34,7 +35,4 @@ function init() {
 }
  
 init();
- 
- 
- 
  
